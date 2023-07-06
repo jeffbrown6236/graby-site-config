@@ -1,4 +1,6 @@
 url=https%3A%2F%2Fwww.hawtcelebs.com%2Ftaylor-swift-in-forbes-argentina-june-2023%2F
 
 body: //article[contains(concat(' ',normalize-space(@class),' '),' post ')]
+find_string: _thumbnail.jpg
+replace_string: .jpg
 test_url: https://www.hawtcelebs.com/taylor-swift-in-forbes-argentina-june-2023/
