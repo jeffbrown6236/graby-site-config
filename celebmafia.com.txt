@@ -1,0 +1,7 @@
+url=https%3A%2F%2Fcelebmafia.com%2Falex-morgan-calvin-klein-june-2023-3733686%2F
+
+body: //article[contains(concat(' ',normalize-space(@class),' '),' post ')]
+find_string: _thumbnail.jpg
+replace_string: .jpg
+
+test_url: https://celebmafia.com/alex-morgan-calvin-klein-june-2023-3733686/.
