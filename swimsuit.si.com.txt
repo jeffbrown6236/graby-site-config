@@ -1,4 +1,4 @@
 body: //article[contains(concat(' ',normalize-space(@class),' '),' m-story ')]
 test_url: https://swimsuit.si.com/swimnews/eight-of-alex-morgans-best-si-swimsuit-photos-from-st-lucia
 
-http_header(User-agent): Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1
+http_header(user-agent): curl/7.83.1
