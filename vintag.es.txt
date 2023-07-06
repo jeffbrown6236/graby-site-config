@@ -1,0 +1,6 @@
+body: //article[contains(concat(' ',normalize-space(@class),' '),' post ')]
+
+find_string: /s640/
+replace_string: /s1600/
+
+test_url: https://www.vintag.es/2018/03/marilyn-monroe-by-earl-moran.html
