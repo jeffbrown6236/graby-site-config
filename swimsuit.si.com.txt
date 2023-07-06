@@ -1,0 +1,2 @@
+body: //article
+test_url: https://swimsuit.si.com/swimnews/eight-of-alex-morgans-best-si-swimsuit-photos-from-st-lucia
