@@ -1,2 +1,2 @@
-body: //article
+body: //article[contains(concat(' ',normalize-space(@class),' '),' m-story ')]
 test_url: https://swimsuit.si.com/swimnews/eight-of-alex-morgans-best-si-swimsuit-photos-from-st-lucia
